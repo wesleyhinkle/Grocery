@@ -1,17 +1,18 @@
-"October 6, 2018",expense,Groceries,-69.04,GBP,Eddie
-"October 9, 2018",expense,Groceries,-16.59,GBP,Eddie
-"October 12, 2018",expense,Groceries,-88.87,GBP,Eddie
-"October 17, 2018",expense,Groceries,-6.47,GBP,Eddie
-"October 17, 2018",expense,Groceries,-18.64,GBP,Jack
-"October 21, 2018",expense,Groceries,-84.81,GBP,Eddie
-"October 24, 2018",expense,Groceries,-11.42,GBP,Wesley
-"October 25, 2018",expense,Groceries,-12,GBP,Eddie
-"October 26, 2018",expense,Groceries,-163.77,GBP,Eddie
-"October 26, 2018",expense,Groceries,-6,GBP,Eddie
-"October 27, 2018",expense,Home,-19.99,GBP,Wesley
-"October 27, 2018",expense,Groceries,-8,GBP,Wesley
-"October 28, 2018",expense,Groceries,-3.44,GBP,Eddie
-"October 28, 2018",expense,Groceries,-43.18,GBP,Eddie
-"October 30, 2018",expense,Groceries,-9.81,GBP,Wesley
-"October 31, 2018",expense,Groceries,-4.3,GBP,Wesley
-"October 31, 2018",income,Other,22.5,GBP,Eddie
+date,cash_flow,type,cost,currency_unit,person
+6-Oct-18,expense,Groceries,-69.04,GBP,Eddie
+9-Oct-18,expense,Groceries,-16.59,GBP,Eddie
+12-Oct-18,expense,Groceries,-88.87,GBP,Eddie
+17-Oct-18,expense,Groceries,-6.47,GBP,Eddie
+17-Oct-18,expense,Groceries,-18.64,GBP,Jack
+21-Oct-18,expense,Groceries,-84.81,GBP,Eddie
+24-Oct-18,expense,Groceries,-11.42,GBP,Wesley
+25-Oct-18,expense,Groceries,-12,GBP,Eddie
+26-Oct-18,expense,Groceries,-163.77,GBP,Eddie
+26-Oct-18,expense,Groceries,-6,GBP,Eddie
+27-Oct-18,expense,Home,-19.99,GBP,Wesley
+27-Oct-18,expense,Groceries,-8,GBP,Wesley
+28-Oct-18,expense,Groceries,-3.44,GBP,Eddie
+28-Oct-18,expense,Groceries,-43.18,GBP,Eddie
+30-Oct-18,expense,Groceries,-9.81,GBP,Wesley
+31-Oct-18,expense,Groceries,-4.3,GBP,Wesley
+31-Oct-18,income,Other,22.5,GBP,Eddie
