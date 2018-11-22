@@ -1,4 +1,3 @@
-# Start here
 import pandas as pd 
 groceries = pd.read_csv('october_groceries.csv')
 
