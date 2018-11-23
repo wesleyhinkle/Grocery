@@ -1,0 +1,18 @@
+date,cash_flow,type,cost,currency_unit,person
+"November 1, 2018",expense,Groceries,-20.00,GBP,Jack
+"November 2, 2018",expense,Groceries,-85.95,GBP,Wesley
+"November 3, 2018",expense,Home,-8.11,GBP,Wesley
+"November 5, 2018",expense,Groceries,-2.99,GBP,Wesley
+"November 5, 2018",expense,Groceries,-11.40,GBP,Wesley
+"November 6, 2018",expense,Groceries,-6.63,GBP,Wesley
+"November 9, 2018",expense,Groceries,-18.00,GBP,Jack
+"November 9, 2018",expense,Groceries,-53.79,GBP,Wesley
+"November 9, 2018",expense,Groceries,-3.79,GBP,Wesley
+"November 11, 2018",expense,Groceries,-9.65,GBP,Eddie
+"November 12, 2018",expense,Groceries,-5.34,GBP,Wesley
+"November 15, 2018",expense,Groceries,-3.39,GBP,Wesley
+"November 16, 2018",expense,Groceries,-102.53,GBP,Jack
+"November 17, 2018",expense,Groceries,-4.29,GBP,Wesley
+"November 19, 2018",expense,Groceries,-30.00,GBP,Wesley
+"November 20, 2018",expense,Groceries,-61.88,GBP,Wesley
+"November 21, 2018",expense,Groceries,-7.50,GBP,Wesley
